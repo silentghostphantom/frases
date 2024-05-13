@@ -1,0 +1,7 @@
+com/ipn/mx/domain/entity/Frase.class
+com/ipn/mx/FrasesApiApplication.class
+com/ipn/mx/service/FraseService.class
+com/ipn/mx/domain/repository/FraseRepository.class
+com/ipn/mx/integration/FraseController.class
+com/ipn/mx/integration/IndexController.class
+com/ipn/mx/service/FraseServiceImpl.class

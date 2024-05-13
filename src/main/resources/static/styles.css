@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #612727;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #666;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+/* styles.css */
+
+a {
+    color: #612727; /* Rojo IPN */
+    text-decoration: none; /* Quita el subrayado por defecto */
+    transition: color 0.3s; /* Transición suave del color */
+}
+
+a:hover {
+    color: #007bff; /* Azul oscuro IPN */
+}
+
+a:focus {
+    outline: none; /* Quita el contorno al enfocar */
+}
